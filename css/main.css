@@ -18,12 +18,13 @@ a:hover {
   color: #113c00;
 }
 
-a:focus {
+.nav a:focus {
   outline: 3px solid #000;
 }
 
 .masthead {
   background-color: #568c36;
+
   color: #fff;
 }
 
@@ -84,6 +85,10 @@ td {
 .footer {
   background-color: #113c00;
   color: #fff;
+}
+
+.read-more {
+  color: #113c00;
 }
 
 @media only screen and (min-width: 35em) {
